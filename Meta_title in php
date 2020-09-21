@@ -1,0 +1,23 @@
+1)	$META_TITLE=($META_TITLE=="")?"SKIP BIN GEELONG":$META_TITLE;
+	$META_DESCRIPTION=($META_DESCRIPTION=="")?"SKIP BIN GEELONG":$META_DESCRIPTION;
+	$META_KEYWORDS=($META_KEYWORDS=="")?"SKIP BIN GEELONG":$META_KEYWORDS;
+?><!doctype html>
+<html class="no-js" lang="en">
+
+<head>
+		<meta charset="utf-8">
+		<meta http-equiv="x-ua-compatible" content="ie=edge">
+		<title><?=$META_TITLE?></title>
+		<meta name="description" content="<?=$META_DESCRIPTION?>">
+		<meta name="keywords" content="<?=$META_KEYWORDS?>">
+		<meta name="description" content="">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+    </head>
+    
+    
+    
+2)    <?php 
+$META_TITLE="Cheapest Skip Bin Hire Geelong | Rubbish Removal | Skip Bins Near Me";
+$META_DESCRIPTION="We are locally owned and operated skip bin hire business in the Geelong, Surf Coast region, Bellarine and entire Greater Geelong area. Get an instant quote now.";
+$META_KEYWORDS="SKIP BIN GEELONG";
+include 'common/header.php'; ?>
